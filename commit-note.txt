@@ -1,0 +1,1 @@
+Added backend folder with initial server setup and core API structure
